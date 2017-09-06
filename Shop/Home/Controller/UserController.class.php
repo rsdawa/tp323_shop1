@@ -11,10 +11,10 @@ class UserController extends Controller
     }
     public function login()
     {
-        $this->show('用户登录页');
+        $this->display();
     }
     public function register()
     {
-        $this->show('用户注册页');
+        $this->display();
     }
 }

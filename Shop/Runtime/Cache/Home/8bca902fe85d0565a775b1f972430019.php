@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>商品列表页模板

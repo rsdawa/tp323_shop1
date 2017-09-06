@@ -7,10 +7,10 @@ class GoodsController extends Controller
 {
     public function showList()
     {
-        echo "商品列表页";
+        $this->display();
     }
     public function detail()
     {
-        echo "商品详情";
+        $this->display();
     }
 }
