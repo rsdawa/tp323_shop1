@@ -1,1 +1,0 @@
-<?php if (!defined('THINK_PATH')) exit();?>商品详情模板
